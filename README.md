@@ -257,6 +257,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [OsintAGI](https://github.com/wearetyomsmnv/OsintAGI/) | Tool | OSINT automation framework | - Intelligence gathering<br>- Data analysis<br>- Automated research |
 | [Agent-Smith](https://github.com/sail-sg/Agent-Smith) | Security Tool | Agent security testing | - Behavior analysis<br>- Vulnerability detection<br>- Security assessment |
 | [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) | Platform | Security operations for AI | - Threat detection<br>- Response automation<br>- Security monitoring |
+| [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
 
 </div>
 
