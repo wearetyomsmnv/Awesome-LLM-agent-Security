@@ -258,6 +258,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [Agent-Smith](https://github.com/sail-sg/Agent-Smith) | Security Tool | Agent security testing | - Behavior analysis<br>- Vulnerability detection<br>- Security assessment |
 | [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) | Platform | Security operations for AI | - Threat detection<br>- Response automation<br>- Security monitoring |
 | [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
+| [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
 
 </div>
 
