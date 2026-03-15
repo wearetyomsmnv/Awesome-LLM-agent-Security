@@ -259,6 +259,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) | Platform | Security operations for AI | - Threat detection<br>- Response automation<br>- Security monitoring |
 | [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
+| [ClawGuard](https://github.com/NeuZhou/clawguard) | Security Framework | AI agent immune system | - 285+ threat patterns<br>- Prompt injection detection (25+ patterns, multilingual)<br>- PII sanitizer (100% local)<br>- Intent-action mismatch detection<br>- OWASP Agentic AI Top 10 coverage |
 
 </div>
 
