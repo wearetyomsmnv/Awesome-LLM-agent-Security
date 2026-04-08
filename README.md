@@ -240,6 +240,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 
 | Title | Authors | Year | Key Findings |
 |:------|:--------|:-----|:-------------|
+| [Internal Safety Collapse in Frontier LLMs](https://arxiv.org/abs/2603.23509) | Wu et al. | 2026 | - Novel failure: task completion overrides safety<br>- Agents generate exploits/toxins autonomously<br>- Jailbreaks any frontier LLM in pass@3<br>- [Code](https://github.com/wuyoscar/ISC-Bench) |
 | [Security Concerns with AI Agents](https://www.vpnranks.com/resources/security-concerns-with-ai-agents/) | VPNRanks | 2024 | - 52.5% data leakage predicted by 2025<br>- Market growth to $7.41B<br>- PII exposure risks |
 | [Key Challenges in AI Agent Security](https://taleliyahu.medium.com/key-challenges-in-ai-agent-security-332d718ec8b4) | Tal Eliyahu | 2024 | - Confidentiality risks<br>- Integrity concerns<br>- Availability threats |
 | [Beyond RCE: Autonomous Code Execution](https://www.securityrunners.io/post/beyond-rce-autonomous-code-execution-in-agentic-ai) | Security Runners | 2024 | - Code execution risks<br>- Agent autonomy threats<br>- Security implications |
