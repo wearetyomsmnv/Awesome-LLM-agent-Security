@@ -259,7 +259,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) | Platform | Security operations for AI | - Threat detection<br>- Response automation<br>- Security monitoring |
 | [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
-| [Agent Threat Rules (ATR)](https://github.com/panguard-ai/agent-threat-rules) | Detection Standard | Open-source AI agent security detection rules | - 76 detection rules for MCP/agent threats<br>- 62.7% recall, 99.7% precision (PINT benchmark)<br>- OWASP Agentic Top 10 full coverage<br>- npm install & one-command scan |
+| [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Detection Standard | Open-source AI agent security detection rules | - 108 detection rules for MCP/agent threats<br>- 62.7% MCP recall, 99.7% precision. 96.9% SKILL.md recall. Shipped in Cisco AI Defense<br>- OWASP Agentic Top 10 full coverage<br>- npm install & one-command scan |
 
 </div>
 
