@@ -229,6 +229,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 |:--------|:-----|:---------|:---------|
 | [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) | Educational Lab | - ReAct agent testing<br>- Prompt injection scenarios<br>- SQL injection practice | Learning prompt & ReAct injection techniques |
 | [Medusa](https://medusa.detoxio.dev/) | Testing Platform | - Agent vulnerability testing<br>- Security assessment<br>- Attack simulation | Practical security testing |
+| [PromptTrace](https://prompttrace.airedlab.com) | Training Platform | - 10 attack labs<br>- 15-level CTF (The Gauntlet)<br>- Context Trace prompt stack visibility | Free hands-on AI security training aligned with OWASP Top 10 for LLMs |
 
 </div>
 
