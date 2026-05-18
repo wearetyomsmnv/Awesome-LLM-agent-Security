@@ -261,6 +261,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
 | [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Detection Standard | Open-source AI agent security detection rules | - 108 detection rules for MCP/agent threats<br>- 62.7% MCP recall, 99.7% precision. 96.9% SKILL.md recall. Shipped in Cisco AI Defense<br>- OWASP Agentic Top 10 full coverage<br>- npm install & one-command scan |
+| [Viridis MCP](https://github.com/viridis-security/mcp-services-sdk) | MCP Services | Aristotle-verified attribution-enforcement MCP services for AI agents | - /v1/injection/detect (T-IB-02)<br>- /v1/canon/scan (T-IB-05)<br>- /v1/maxwell/challenge (T-IB-09)<br>- Free tier, 7/7 corpus theorems formally proven in Lean 4 by Aristotle (Harmonic) |
 
 </div>
 
