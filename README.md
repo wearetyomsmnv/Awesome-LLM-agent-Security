@@ -262,6 +262,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
 | [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Detection Standard | Open-source AI agent security detection rules | - 108 detection rules for MCP/agent threats<br>- 62.7% MCP recall, 99.7% precision. 96.9% SKILL.md recall. Shipped in Cisco AI Defense<br>- OWASP Agentic Top 10 full coverage<br>- npm install & one-command scan |
 
+| [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Security Library | OWASP ASI06 memory poisoning defense for AI agents | - Memory integrity validation<br>- Poisoned memory detection<br>- LangChain/LlamaIndex middleware<br>- Audit logging & tenant isolation |
 </div>
 
 <h2 align="center"> Benchmarks & Evaluations </h2>
