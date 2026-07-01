@@ -266,6 +266,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [Viridis MCP](https://github.com/viridis-security/mcp-services-sdk) | MCP Services | Aristotle-verified attribution-enforcement MCP services for AI agents | - /v1/injection/detect (T-IB-02)<br>- /v1/canon/scan (T-IB-05)<br>- /v1/maxwell/challenge (T-IB-09)<br>- Free tier, 7/7 corpus theorems formally proven in Lean 4 by Aristotle (Harmonic) |
 
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Security Library | OWASP ASI06 memory poisoning defense for AI agents | - Memory integrity validation<br>- Poisoned memory detection<br>- LangChain/LlamaIndex middleware<br>- Audit logging & tenant isolation |
+| [SecuredAI](https://securedai.com/) | Data Protection | Client-side prompt DLP for AI agents and assistants | - Detects & masks PII/PHI before prompts reach the model<br>- Local zero-knowledge restoration vault<br>- Context-preserving obfuscation (OpenAI/DeepSeek) |
 </div>
 
 <h2 align="center"> Benchmarks & Evaluations </h2>
