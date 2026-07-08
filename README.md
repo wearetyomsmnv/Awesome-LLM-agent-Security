@@ -259,6 +259,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [OsintAGI](https://github.com/wearetyomsmnv/OsintAGI/) | Tool | OSINT automation framework | - Intelligence gathering<br>- Data analysis<br>- Automated research |
 | [Agent-Smith](https://github.com/sail-sg/Agent-Smith) | Security Tool | Agent security testing | - Behavior analysis<br>- Vulnerability detection<br>- Security assessment |
 | [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS) | Platform | Security operations for AI | - Threat detection<br>- Response automation<br>- Security monitoring |
+| [Darkmoon](https://github.com/ASCIT31/Dark-Moon) | Platform | Autonomous AI pentest platform & MCP host | - Per-tech offensive sub-agents<br>- Active Directory & Kubernetes<br>- Evidence trail per finding<br>- Orchestrates 80+ offensive tools |
 | [PentAGI](https://github.com/vxcontrol/pentagi/) | Security Tool | Automated penetration testing | - Autonomous AI agents<br>- Professional security tools<br>- Comprehensive monitoring |
 | [Tenuo](https://github.com/tenuo-ai/tenuo) | Authorization Framework | Capability-based authorization for AI agents | - Cryptographic warrants with task-scoped TTLs<br>- Offline verification<br>- Proof-of-possession binding<br>- LangChain/LangGraph/MCP integrations |
 | [APort](https://aport.io/) | Runtime Policy & Verification | Runtime policy and verification layer for AI agents and MCP-connected tools | - Guardrails around tool use<br>- Policy enforcement<br>- Auditable runtime verification |
