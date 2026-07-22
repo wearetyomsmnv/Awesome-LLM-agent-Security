@@ -246,6 +246,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [Key Challenges in AI Agent Security](https://taleliyahu.medium.com/key-challenges-in-ai-agent-security-332d718ec8b4) | Tal Eliyahu | 2024 | - Confidentiality risks<br>- Integrity concerns<br>- Availability threats |
 | [Beyond RCE: Autonomous Code Execution](https://www.securityrunners.io/post/beyond-rce-autonomous-code-execution-in-agentic-ai) | Security Runners | 2024 | - Code execution risks<br>- Agent autonomy threats<br>- Security implications |
 | [Exploiting Huggingface's Assistants](https://www.lasso.security/blog/exploiting-huggingfaces-assistants-to-extract-users-data) | Lasso Security | 2023 | - Data extraction vulnerabilities<br>- Assistant exploitation<br>- Security measures |
+| [Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models](https://arxiv.org/abs/2501.18280) | Liang et al. | 2026 | - Exploits embedding output bias to craft universal suffixes that manipulate similarity scores<br>- Bypasses RAG-based safeguards on ChatGPT, DeepSeek, Qwen, and Spark<br>- Black-box and white-box methods, transferable across models and languages<br>- Includes training-free debiasing defense |
 
 </div>
 
@@ -279,6 +280,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [Auto-Pen-Bench](https://github.com/lucagioacchini/auto-pen-bench) | Penetration Testing | Security benchmarks | - Automated testing<br>- Performance metrics<br>- Security scoring |
 | [ASB](https://github.com/agiresearch/ASB) | Security Benchmark | Agent security | - Security metrics<br>- Performance analysis<br>- Vulnerability testing |
 | [LLM-Agent-Benchmark](https://github.com/zhangxjohn/LLM-Agent-Benchmark-List) | Comprehensive | Agent evaluation | - Security testing<br>- Performance metrics<br>- Benchmark collection |
+| [PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap) | Orchestration Security | Information leakage rate | - 110 scenarios across 10 orchestration topologies<br>- Measures whether LLMs leak fragments to wrong sub-agents<br>- 33 commercial models, mean 17.2% pass rate<br>- [Paper](https://arxiv.org/abs/2606.08878) |
 
 </div>
 
