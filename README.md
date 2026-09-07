@@ -265,8 +265,8 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 | [APort](https://aport.io/) | Runtime Policy & Verification | Runtime policy and verification layer for AI agents and MCP-connected tools | - Guardrails around tool use<br>- Policy enforcement<br>- Auditable runtime verification |
 | [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) | Detection Standard | Open-source AI agent security detection rules | - 108 detection rules for MCP/agent threats<br>- 62.7% MCP recall, 99.7% precision. 96.9% SKILL.md recall. Shipped in Cisco AI Defense<br>- OWASP Agentic Top 10 full coverage<br>- npm install & one-command scan |
 | [Viridis MCP](https://github.com/viridis-security/mcp-services-sdk) | MCP Services | Aristotle-verified attribution-enforcement MCP services for AI agents | - /v1/injection/detect (T-IB-02)<br>- /v1/canon/scan (T-IB-05)<br>- /v1/maxwell/challenge (T-IB-09)<br>- Free tier, 7/7 corpus theorems formally proven in Lean 4 by Aristotle (Harmonic) |
-
 | [Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard) | Security Library | OWASP ASI06 memory poisoning defense for AI agents | - Memory integrity validation<br>- Poisoned memory detection<br>- LangChain/LlamaIndex middleware<br>- Audit logging & tenant isolation |
+| [memory-blackbox](https://github.com/lavkumarv/memory-blackbox) | Forensics Library | Post-incident reconstruction for poisoned agent memory | - Append-only Ed25519-signed ledger (BLAKE3 chain + Merkle checkpoints)<br>- Trace a harmful action to its root-cause memory<br>- Blast radius and append-only rollback<br>- Mem0/Chroma/Letta/pgvector adapters, MCP gateway, sidecar |
 </div>
 
 <h2 align="center"> Benchmarks & Evaluations </h2>
