@@ -318,6 +318,7 @@ Dynamic Interaction: Agents can adapt their actions based on real-time observati
 
 - [OWASP AI Agent Security Project](https://github.com/precize/OWASP-Agentic-AI/) - Official repository
 - [OWASP Slack #team-llm-autonomus-agents](https://owasp.slack.com/archives/team-llm-autonomus-agents) - Community discussions
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security incidents, each with an attack-chain diagram, primary sources and a flag for whether there was a confirmed victim
 
 
 <p align="center">
